@@ -1,0 +1,266 @@
+/*p {
+    line-height: 1.5;
+    color: #999999;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}*/
+.user_tab_h2{
+    color: black;
+    font: 14px Montserrat, sans-serif;
+    margin: 0px 0px 20px;
+    -ms-high-contrast-adjust: 21;
+}
+/*.termsHead{
+    padding: 10px 10px;
+    background-color:blue;
+    cursor: pointer;
+}*/
+/*html{
+    
+    -webkit-tap-highlight-color:blue;
+}*/
+.payGate_cover {
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+.user_tab_h2{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+
+
+.tcWrapp{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+
+}
+
+.perInfo_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+
+}
+
+
+.infoThird_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+
+}
+
+
+.link_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+  
+.usePerInfo_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+.perInfoShare_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+ 
+.payGate_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+ 
+.security_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+  
+.optOut{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+
+.charPriPol_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+
+.aboutPriPol_cover{
+
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+}
+
+/*.grievances_cover{
+    padding: 10px 10px;
+    background-color: rgba(204,204,204,0.1);
+    cursor: pointer;
+
+}*/
+.tcWrapp{
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: left;
+}
+.perInfo_cover.icon-wrap{
+    color: #000;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+
+
+.fa-angle-down:before {
+    float: right;
+    content: "\f107";
+}
+
+
+
+/*.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}*/ 
+   
+.fa-angle-down:before {
+    content: "\f107";
+}
+*:before  {
+    
+    box-sizing: border-box;
+}
+.down{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+a {
+    text-decoration: none !important;
+    color: #75d0c0;
+    background-color: transparent;
+    display: inline ;
+    padding: 0.2em;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+ a:-webkit-any-link{
+cursor: pointer;
+ }
+ 
+ 
+ .checkout_steps_container{
+     background: #f7f7f7;
+     padding: 40px 30px;
+     color:#999999;
+ }
+
+ div{
+     display: block;
+ }
+  
+ .clearfix:before, .clearfix:after{
+     display: table;
+     content: "";
+     line-height: 0;
+ }
+
+
+ h1.user_tab_h2{
+     color: black;
+     font: 14px Montserrat,sans-serif;
+     margin: 0px 0px 20px;
+     display: block;
+     margin-inline-start: 0px;
+     margin-block-end: 0px;
+ }
+
+ .content-wrap{
+     position: relative;
+ }
+  
+ .nopadding{
+     padding: 0 !important;
+ }
+
+ *{
+     box-sizing: border-box;
+ }
+
+ body{
+     line-height: 1.5;
+     color: #999999;
+     font-weight: 500;
+     font-family: 'Montserrat', sans-serif;
+     -webkit-font-smoothing:antialiased;
+     text-rendering: optimizeLegibility;
+ }
+ 
+ #content p{
+     line-height: 2;
+ }
+
+ p{
+     margin: 0px 0px 25px;
+ }
+ .fa{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased
+ }
+ .icon_wrap{
+     float: right;
+     
+ }
+
+.tcWrap{
+     color: black;
+     font-weight: 500;
+     font-size: 16px;
+     padding: 10px 10px;
+     background-color:rgba(204,204,204,0.1);
+     cursor: pointer;
+ }
+ .tcWrap > div{
+     margin-bottom: 20px;
+ }
+   
+   .fa.p{
+       display: block;
+   }
+
+   .termsDetails{
+       display: none;
+   }
+
+
+   *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
